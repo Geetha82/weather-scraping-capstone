@@ -1,6 +1,5 @@
 import csv
 import os
-import time
 import ssl
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -33,15 +32,15 @@ def setup_driver():
 
 def scrape_to_exact_template():
     driver = setup_driver()
-    url = "https://www.timeanddate.com/weather/"
-    
+    url = "https://www.timeanddate.com/weather/"  
     print(f"Connecting to {url}...")
-    driver.get(url)
-    
-    os.makedirs('data', exist_ok=True)
-    csv_file_path = 'data/raw_weather.csv'
+
     
     try:
+        driver.get(url)
+        os.makedirs('data', exist_ok=True)
+        csv_file_path = 'data/raw_weather.csv'
+
         # Wait until the main weather table rows are visible
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.XPATH, "//table//tbody/tr"))
@@ -49,9 +48,11 @@ def scrape_to_exact_template():
         
         # Grab the first visible weather data table
         tables = driver.find_elements(By.TAG_NAME, "table")
-        target_table = tables[0]
-        rows = target_table.find_elements(By.XPATH, ".//tbody/tr")
+        if not tables:
+            print("No tables located.")
+            return
         
+        rows = tables[0].find_elements(By.XPATH, ".//tbody/tr") 
         print(f"Successfully bypassed walls. Found {len(rows)} data rows.")
         
         with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
@@ -68,6 +69,8 @@ def scrape_to_exact_template():
                         
                     # Added explicit list indexing back [0], [2], [3]
                     location_text = cells[0].text.strip()
+                    if not location_text:
+                        continue
                     if "," in location_text:
                         city, country = [x.strip() for x in location_text.split(",", 1)]
                     else:
