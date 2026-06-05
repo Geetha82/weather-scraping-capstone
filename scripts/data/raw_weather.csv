@@ -1,48 +1,71 @@
 Country,City,Temperature,Humidity,Condition
-Global Hub,Accra,,N/A,84 °F
-Global Hub,Addis Ababa,,N/A,63 °F
-Global Hub,Adelaide,,N/A,58 °F
-Global Hub,Algiers,,N/A,75 °F
-Global Hub,Almaty,,N/A,66 °F
-Global Hub,Amman,,N/A,66 °F
-Global Hub,Amsterdam *,,N/A,64 °F
-Global Hub,Anadyr,,N/A,34 °F
-Global Hub,Anchorage *,,N/A,50 °F
-Global Hub,Ankara,,N/A,50 °F
-Global Hub,Antananarivo,,N/A,61 °F
-Global Hub,Asuncion,,N/A,64 °F
-Global Hub,Athens *,,N/A,81 °F
-Global Hub,Atlanta *,,N/A,83 °F
-Global Hub,Auckland,,N/A,50 °F
-Global Hub,Bangkok,,N/A,84 °F
-Global Hub,Barcelona *,,N/A,75 °F
-Global Hub,Beijing,,N/A,77 °F
-Global Hub,Beirut *,,N/A,81 °F
-Global Hub,Belgrade *,,N/A,66 °F
-Global Hub,Bengaluru,,N/A,70 °F
-Global Hub,Berlin *,,N/A,79 °F
-Global Hub,Bogota,,N/A,66 °F
-Global Hub,Boston *,,N/A,62 °F
-Global Hub,Brasilia,,N/A,77 °F
-Global Hub,Brisbane,,N/A,61 °F
-Global Hub,Brussels *,,N/A,77 °F
-Global Hub,Bucharest *,,N/A,66 °F
-Global Hub,Budapest *,,N/A,72 °F
-Global Hub,Buenos Aires,,N/A,57 °F
-Global Hub,Cairo *,,N/A,82 °F
-Global Hub,Calgary *,,N/A,75 °F
-Global Hub,Canberra,,N/A,45 °F
-Global Hub,Cape Town,,N/A,59 °F
-Global Hub,Caracas,,N/A,86 °F
-Global Hub,Casablanca *,,N/A,70 °F
-Global Hub,Chicago *,,N/A,80 °F
-Global Hub,Copenhagen *,,N/A,63 °F
-Global Hub,Dallas *,,N/A,88 °F
-Global Hub,Dar es Salaam,,N/A,77 °F
-Global Hub,Darwin,,N/A,66 °F
-Global Hub,Denver *,,N/A,77 °F
-Global Hub,Detroit *,,N/A,76 °F
-Global Hub,Dhaka,,N/A,80 °F
-Global Hub,Doha,,N/A,91 °F
-Global Hub,Dubai,,N/A,93 °F
-Global Hub,Dublin *,,N/A,70 °F
+Global Hub,Weather,86&nbsp;°F,N/A,57&nbsp;°F
+Global Hub,Worldwide,82&nbsp;°F,N/A,75&nbsp;°F
+Global Hub,Africa,66&nbsp;°F,N/A,89&nbsp;°F
+Global Hub,North America,54&nbsp;°F,N/A,70&nbsp;°F
+Global Hub,South America,83&nbsp;°F,N/A,75&nbsp;°F
+Global Hub,Asia,66&nbsp;°F,N/A,82&nbsp;°F
+Global Hub,Australia/Pacific,66&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,Europe,63&nbsp;°F,N/A,79&nbsp;°F
+Global Hub,Capitals,75&nbsp;°F,N/A,75&nbsp;°F
+Global Hub,Accra,66&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,Edmonton,64&nbsp;°F,N/A,49&nbsp;°F
+Global Hub,Nassau,64&nbsp;°F,N/A,57&nbsp;°F
+Global Hub,Addis Ababa,56&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,Frankfurt,84&nbsp;°F,N/A,68&nbsp;°F
+Global Hub,New Delhi,76&nbsp;°F,N/A,87&nbsp;°F
+Global Hub,Adelaide,64&nbsp;°F,N/A,82&nbsp;°F
+Global Hub,Guatemala City,63&nbsp;°F,N/A,77&nbsp;°F
+Global Hub,New Orleans,77&nbsp;°F,N/A,50&nbsp;°F
+Global Hub,Algiers,78&nbsp;°F,N/A,86&nbsp;°F
+Global Hub,Halifax,70&nbsp;°F,N/A,75&nbsp;°F
+Global Hub,New York,73&nbsp;°F,N/A,106&nbsp;°F
+Global Hub,Almaty,57&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,Hanoi,77&nbsp;°F,N/A,103&nbsp;°F
+Global Hub,Oslo,76&nbsp;°F,N/A,72&nbsp;°F
+Global Hub,Amman,84&nbsp;°F,N/A,57&nbsp;°F
+Global Hub,Harare,58&nbsp;°F,N/A,70&nbsp;°F
+Global Hub,Ottawa,88&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,Amsterdam,72&nbsp;°F,N/A,75&nbsp;°F
+Global Hub,Havana,77&nbsp;°F,N/A,81&nbsp;°F
+Global Hub,Paris,85&nbsp;°F,N/A,50&nbsp;°F
+Global Hub,Anadyr,75&nbsp;°F,N/A,90&nbsp;°F
+Global Hub,Helsinki,80&nbsp;°F,N/A,68&nbsp;°F
+Global Hub,Perth,81&nbsp;°F,N/A,66&nbsp;°F
+Global Hub,Anchorage,59&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,Hong Kong,56&nbsp;°F,N/A,82&nbsp;°F
+Global Hub,Philadelphia,88&nbsp;°F,N/A,61&nbsp;°F
+Global Hub,Ankara,70&nbsp;°F,N/A,107&nbsp;°F
+Global Hub,Honolulu,73&nbsp;°F,N/A,53&nbsp;°F
+Global Hub,Phoenix,79&nbsp;°F,N/A,86&nbsp;°F
+Global Hub,Antananarivo,64&nbsp;°F,N/A,49&nbsp;°F
+Global Hub,Houston,77&nbsp;°F,N/A,81&nbsp;°F
+Global Hub,Prague,91&nbsp;°F,N/A,50&nbsp;°F
+Global Hub,Asuncion,66&nbsp;°F,N/A,91&nbsp;°F
+Global Hub,Indianapolis,64&nbsp;°F,N/A,61&nbsp;°F
+Global Hub,Reykjavik,86&nbsp;°F,N/A,70&nbsp;°F
+Global Hub,Athens,91&nbsp;°F,N/A,72&nbsp;°F
+Global Hub,Islamabad,54&nbsp;°F,N/A,57&nbsp;°F
+Global Hub,Rio de Janeiro,70&nbsp;°F,N/A,79&nbsp;°F
+Global Hub,Atlanta,32&nbsp;°F,N/A,63&nbsp;°F
+Global Hub,Istanbul,70&nbsp;°F,N/A,61&nbsp;°F
+Global Hub,Riyadh,64&nbsp;°F,N/A,87&nbsp;°F
+Global Hub,Auckland,88&nbsp;°F,N/A,81&nbsp;°F
+Global Hub,Jakarta,77&nbsp;°F,N/A,70&nbsp;°F
+Global Hub,Rome,88&nbsp;°F,N/A,86&nbsp;°F
+Global Hub,Baghdad,74&nbsp;°F,N/A,79&nbsp;°F
+Global Hub,Jerusalem,61&nbsp;°F,N/A,61&nbsp;°F
+Global Hub,Salt Lake City,50&nbsp;°F,N/A,81&nbsp;°F
+Global Hub,Bangkok,79&nbsp;°F,N/A,61&nbsp;°F
+Global Hub,Johannesburg,55&nbsp;°F,N/A,84&nbsp;°F
+Global Hub,San Francisco,82&nbsp;°F,N/A,63&nbsp;°F
+Global Hub,Barcelona,73&nbsp;°F,N/A,74&nbsp;°F
+Global Hub,Karachi,73&nbsp;°F,N/A,69&nbsp;°F
+Global Hub,San Juan,75&nbsp;°F,N/A,85&nbsp;°F
+Global Hub,Beijing,80&nbsp;°F,N/A,64&nbsp;°F
+Global Hub,Kathmandu,61&nbsp;°F,N/A,82&nbsp;°F
+Global Hub,San Salvador,70&nbsp;°F,N/A,79&nbsp;°F
+Global Hub,Belgrade,102&nbsp;°F,N/A,75&nbsp;°F
+Global Hub,Kingston,61&nbsp;°F,N/A,93&nbsp;°F
+Global Hub,Santiago,92&nbsp;°F,N/A,66&nbsp;°F
+Global Hub,Bengaluru,61&nbsp;°F,N/A,73&nbsp;°F
