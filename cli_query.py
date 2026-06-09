@@ -9,7 +9,7 @@ import sqlite3
 import argparse
 
 def execute_terminal_query(min_temp, condition_filter):
-    db_file = "weather_data.db"
+    db_file = "data/weather_data.db"
     
     if not os.path.exists(db_file):
         print(f"Error: Database file '{db_file}' missing. Run 'pipeline.py' first.")
