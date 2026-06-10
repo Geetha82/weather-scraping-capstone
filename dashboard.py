@@ -30,6 +30,11 @@ else:
     # 2. Sidebar Filters
     st.sidebar.header("🎛️ Dashboard Controls")
     city_search = st.sidebar.text_input("🔍 Search City Name", "")
+
+    # Open dashboard.py and add these two lines under city_search:
+    with st.sidebar.expander("View Available Cities"):
+        st.write(", ".join(sorted(df["City"].unique())))
+
     
     # Crash-proof slider boundary logic
     min_t, max_t = int(df["Temperature_C"].min()), int(df["Temperature_C"].max())
