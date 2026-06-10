@@ -8,7 +8,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Global Climate Analytics Panel", layout="wide")
 st.title("Global Weather & Climate Visualization Panel")
-st.markdown("### Student Capstone Analytics Portal Dashboard\n* Use the sidebar widgets to filter the charts live.")
+st.markdown("### Web-Scraping Capstone Analytics Portal Dashboard\n* Use the sidebar widgets to filter the charts live.")
 
 # 1. Database Ingestion
 def load_data():
