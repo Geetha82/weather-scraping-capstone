@@ -1,0 +1,47 @@
+Country,City,Temperature_C,Condition,Climate_Tier
+Global Hub,Accra,25.0,Passing Clouds,Moderate
+Global Hub,Addis Ababa,16.1,Passing Clouds,Moderate
+Global Hub,Adelaide,13.9,Passing Clouds,Moderate
+Global Hub,Algiers,23.3,Passing Clouds,Moderate
+Global Hub,Almaty,17.8,Passing Clouds,Moderate
+Global Hub,Amman,21.1,Passing Clouds,Moderate
+Global Hub,Amsterdam *,12.2,Passing Clouds,Moderate
+Global Hub,Anadyr,2.2,Chilly,Cold
+Global Hub,Anchorage *,15.6,Passing Clouds,Moderate
+Global Hub,Ankara,16.1,Passing Clouds,Moderate
+Global Hub,Antananarivo,7.8,Chilly,Cold
+Global Hub,Asuncion,18.9,Passing Clouds,Moderate
+Global Hub,Athens *,26.7,Sunny,Hot
+Global Hub,Atlanta *,28.3,Sunny,Hot
+Global Hub,Auckland,10.0,Chilly,Cold
+Global Hub,Bangkok,27.2,Sunny,Hot
+Global Hub,Barcelona *,21.1,Passing Clouds,Moderate
+Global Hub,Beijing,17.2,Passing Clouds,Moderate
+Global Hub,Belgrade *,18.9,Passing Clouds,Moderate
+Global Hub,Bengaluru,22.2,Passing Clouds,Moderate
+Global Hub,Berlin *,12.2,Passing Clouds,Moderate
+Global Hub,Bogota,13.9,Passing Clouds,Moderate
+Global Hub,Boston *,28.3,Sunny,Hot
+Global Hub,Brasilia,21.1,Passing Clouds,Moderate
+Global Hub,Brisbane,16.1,Passing Clouds,Moderate
+Global Hub,Brussels *,11.1,Chilly,Cold
+Global Hub,Bucharest *,17.8,Passing Clouds,Moderate
+Global Hub,Budapest *,18.9,Passing Clouds,Moderate
+Global Hub,Buenos Aires,13.9,Passing Clouds,Moderate
+Global Hub,Cairo *,26.1,Sunny,Hot
+Global Hub,Calgary *,18.9,Passing Clouds,Moderate
+Global Hub,Canberra,7.8,Chilly,Cold
+Global Hub,Cape Town,12.2,Passing Clouds,Moderate
+Global Hub,Caracas,27.2,Sunny,Hot
+Global Hub,Casablanca *,18.9,Passing Clouds,Moderate
+Global Hub,Chicago *,30.6,Sunny,Hot
+Global Hub,Copenhagen *,12.2,Passing Clouds,Moderate
+Global Hub,Dallas *,32.8,Sunny,Hot
+Global Hub,Dar es Salaam,22.8,Passing Clouds,Moderate
+Global Hub,Darwin,25.0,Passing Clouds,Moderate
+Global Hub,Denver *,33.9,Sunny,Hot
+Global Hub,Detroit *,24.4,Passing Clouds,Moderate
+Global Hub,Dhaka,26.7,Sunny,Hot
+Global Hub,Doha,35.0,Sunny,Hot
+Global Hub,Dubai,31.1,Sunny,Hot
+Global Hub,Dublin *,10.0,Chilly,Cold
